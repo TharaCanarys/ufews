@@ -1,0 +1,21 @@
+POI,Category,Ward_ID,Zone,Priority,Latitude,Longitude,Address,Sensor_ID
+Bela Public School,Education,26,2,1,26.73878,83.3729,"H.P. Dubey Rd, Daudpur, Gorakhpur, Uttar Pradesh, 273001, India",SUFEW024
+Shahi Global Hospital,Healthcare,26,2,1,26.73819,83.37303,"Buddh Vihar, Commercial, Taramandal, Gorakhpur, Uttar Pradesh, 273001, India",SUFEW024
+Sarkari MediCare Center,Healthcare,26,2,1,26.73751,83.37237,"209, Nahar Road, Daudpur, Gorakhpur, Uttar Pradesh, 273001, India",SUFEW024
+Daudpur Kali Mandir,Religious,65,2,2,26.74204,83.37191,"Daudpur Road, H.P. Dubey Rd, Daudpur, Gorakhpur, Uttar Pradesh, 273001, India",SUFEW017
+Bharat Sevashram Sangha,Religious,79,2,2,26.74293,83.3743,"C18, Kasia Road, Swami Pranvanandi Ji Marg, Behind Cantt Thana, Daudpur, Gorakhpur, Uttar Pradesh, 273001, India",SUFEW001
+Hanuman Mandir,Religious,37,2,2,26.72244,83.39026,"Rampur, Taramandal Rd, Rail Vihar Colony Phase 3rd, Phase 3rd, Gorakhpur, Uttar Pradesh, 273010, India",SUFEW019
+Shiv Temple,Religious,37,2,2,26.72245,83.39003,"Budh Vihar Colony, Bharwalia Buzurg, Gorakhpur, Uttar Pradesh, 273010, India",SUFEW019
+Medwin Hospital,Healthcare,37,2,1,26.721348,83.389556,"Rampur Road, Rani Bagh, Gorakhpur, Uttar Pradesh, 273010, India",SUFEW019
+Krishna Public School,Education,75,2,1,26.7216,83.37344,"Near, Shivaji Nagar Colony, Sector-2, 1 KM From Azad Chowk, Bargo Rd, Mahuesugharpur, Shakti Nagar Colony, Gorakhpur, Uttar Pradesh, 273010, India",SUFEW056
+Ptel Chok,Religious,75,2,2,26.72317,83.37221,"Mahuesugharpur, Shakti Nagar Colony, Gorakhpur, Uttar Pradesh, 273010, India",GUFEW036
+RPM Academy,Education,26,2,1,26.73105,83.36846,"Nahar Rd, Near To Punjab National Bank, Mahuesugharpur, Shakti Nagar Colony, Gorakhpur, Uttar Pradesh, 273010, India",GUFEW014
+Anand Bhawan,Religious,38,2,2,26.73296,83.36535,"Shivpuri Colony, Mahuesugharpur, Transport Nagar, Gorakhpur, Uttar Pradesh, 273010, India",GUFEW014
+Mall Hospital,Healthcare,73,3,1,26.75298,83.3598,"119, Rajbi Rd, Muftipur, Miyan Baza, Gorakhpur, Uttar Pradesh, 273005, India",SUFEW007
+Raj Eye Hospital - Jhankar Branch,Healthcare,33,3,1,26.75379,83.35721,"168/18 Naseerabad, Buxipur, Infront Of Marwar Business College, Near Jhankar Cinema, Bade Kajipur, Gorakhpur, Uttar Pradesh, 273005, India",GUFEW074
+Narmal Masjid,Religious,57,2,2,26.74052,83.35974,"Near Normal Police Chowki, TP Nagar, Raiganj, Gorakhpur, Uttar Pradesh, 273005, India",GUFEW017
+Moon Montessori School,Education,57,3,1,26.74253,83.35991,"Raiganj, Gorakhpur, Uttar Pradesh, 273001, India",GUFEW017
+Narayan Chikitsalaya,Healthcare,69,2,1,26.73793,83.35879,"483B, Turakmanpur, TP Nagar, Basantpur, Gorakhpur, Uttar Pradesh, 273005, India",GUFEW018
+"Dr Saurabh Kedie Hospital, Dr. Satyanand Kedia",Healthcare,44,2,1,26.73843,83.35908,"Unnamed Road, TP Nagar, Basantpur, Gorakhpur, Uttar Pradesh, 273005, India",GUFEW018
+Rawat PathShala School,Education,57,2,1,26.73775,83.35811,"Turakmanpur, TP Nagar, Basantpur, Gorakhpur, Uttar Pradesh, 273005, India",GUFEW018
+Rawat Pathsala,Education,32,2,1,26.73779,83.35811,"Turakmanpur, TP Nagar, Basantpur, Gorakhpur, Uttar Pradesh, 273005, India",GUFEW018
