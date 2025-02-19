@@ -1,0 +1,31 @@
+id,title,Latitude,Longitude,type
+GUFEW002,Basantpur Nala,26.737485,83.35911,Sensor
+GUFEW012,"Bhagat Chauraha, Taramandal Rd",26.72219758,83.38962197,Sensor
+GUFEW013,"Narmal Taxi Stand, Raiganj",26.74080944,83.36009261,Sensor
+GUFEW018,Samay Mata Mandir Road,26.737858,83.358547,Sensor
+GUFEW022,"Patel Chowk, Shakti Nagar Colony",26.72829493,83.37096216,Sensor
+GUFEW036,"Badgu Rd, Prayagpuram Colony",26.72416624,83.369582,Sensor
+GUFEW040,Daudpur,26.74010821,83.37461506,Sensor
+GUFEW047,Mahui Sugharpur / Fulwariya,26.72178028,83.37508738,Sensor
+GUFEW066,"Panchavati Apartment, Daudpur.",26.74205174,83.3736721,Sensor
+GUFEW075,Jhankar Talkies Road / Minara Masjid,26.75407168,83.35889263,Sensor
+GUFEW079,"Mandi Rd, Mahuesugharpur",26.73148477,83.36310874,Sensor
+GUFEW040,Bela Public School,26.73878,83.3729,POI
+GUFEW040,Shahi Global Hospital,26.73819,83.37303,POI
+GUFEW040,Sarkari MediCare Center,26.73751,83.37237,POI
+GUFEW066,Daudpur Kali Mandir,26.74204,83.37191,POI
+GUFEW066,Bharat Sevashram Sangha,26.74293,83.3743,POI
+GUFEW012,Hanuman Mandir,26.72244,83.39026,POI
+GUFEW012,Shiv Temple,26.72245,83.39003,POI
+GUFEW012,Medwin Hospital,26.721348,83.389556,POI
+GUFEW047,Krishna Public School,26.7216,83.37344,POI
+GUFEW036,Ptel Chok,26.72317,83.37221,POI
+GUFEW022,RPM Academy,26.73105,83.36846,POI
+GUFEW079,Anand Bhawan,26.73296,83.36535,POI
+GUFEW075,Mall Hospital,26.75298,83.3598,POI
+GUFEW075,Raj Eye Hospital - Jhankar Branch,26.75379,83.35721,POI
+GUFEW013,Narmal Masjid,26.74052,83.35974,POI
+GUFEW013,Moon Montessori School,26.74253,83.35991,POI
+GUFEW018,Narayan Chikitsalaya,26.73793,83.35879,POI
+GUFEW018,"Dr Saurabh Kedie Hospital, Dr. Satyanand Kedia",26.73843,83.35908,POI
+GUFEW018,Rawat PathShala School,26.73775,83.35811,POI
