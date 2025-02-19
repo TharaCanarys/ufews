@@ -1,0 +1,6 @@
+id,title,type,mainStat,secondaryStat
+1,Alice,Person,10,Active
+2,Bob,Person,15,Inactive
+3,Charlie,Person,12,Active
+4,CompanyX,Organization,8,Pending
+5,ProjectY,Project,20,Completed
