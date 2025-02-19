@@ -1,0 +1,6 @@
+id,source,target,mainStat,secondaryStat
+1,1,2,1.0,Strong
+2,1,3,0.8,Medium
+3,2,4,1.0,Strong
+4,3,5,0.9,Weak
+5,4,5,0.7,Medium
