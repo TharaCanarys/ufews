@@ -1,6 +1,0 @@
-SourceNodeID,TargetNodeID,Relation,Weight
-1,2,Friend,1.0
-1,3,Colleague,0.8
-2,4,WorksAt,1.0
-3,5,AssignedTo,0.9
-4,5,Sponsor,0.7
