@@ -1,7 +1,0 @@
-id,title,type,mainStat,secondaryStat
-1,Sensor_A,Sensor,25.5,Active
-2,Sensor_B,Sensor,28.2,Active
-3,Sensor_C,Sensor,26.7,Inactive
-4,POI_X,POI,High,Landmark
-5,POI_Y,POI,Medium,Utility
-6,POI_Z,POI,Low,Public Space
