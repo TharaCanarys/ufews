@@ -1,3 +1,3 @@
-StationId,LocationName,Latitude,Longitude
-GUFEW112,Arya Nagar_Bilandpur,26.755923,83.380969
-GUFEW111,Semra_Chargawan,26.802396,83.39472
+StationId,LocationName,Latitude,Longitude,Datetime,Warning,Rain
+GUFEW112,Arya Nagar_Bilandpur,26.755923,83.380969,24/02/2025 12:45,No Warning,0,
+GUFEW111,Semra_Chargawan,26.802396,83.39472,,24/02/2025 12:45,No Warning,0,
